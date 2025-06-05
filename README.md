@@ -47,14 +47,6 @@
   <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=Michael-dvs&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
 
-### ✨ Fun Facts
-
-- 🧠 Favorite Stack: Django + PostgreSQL + React  
-- 💡 Favorite Quote: *“Simplicity is the soul of efficiency.”* – Austin Freeman  
-- 🎮 Hobbies: Coding, Gaming, and Exploring Tech Tools
-
----
 
 <p align="center">Thanks for stopping by! ⭐️</p>
