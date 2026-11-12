@@ -59,9 +59,9 @@
 | Project | Tech Stack | Technical Overview |
 | :--- | :--- | :--- |
 | **[Windexer](https://github.com/Michael-dvs/Windexer)** | `Java 17` `JavaFX` `Qwen2-1.5B` `Ollama` | **On-Device AI Desktop Analyzer:** Engineered an offline Windows 11 filesystem risk classifier using a QLoRA fine-tuned Qwen2 1.5B SLM (quantized Q8_0 GGUF) via Ollama REST API with non-blocking inference threads. |
-| **Botseri** | `Next.js 14` `TypeScript` `PostgreSQL` `n8n` `Docker` | **Containerized WhatsApp Operational Assistant:** Architected a multi-container workflow automation platform with a centralized AES-256-GCM encrypted LLM Gateway, automated model failover, and bidirectional Google Calendar/Tasks sync. |
+| **[Botseri](https://github.com/Michael-dvs/Botseri)** | `Next.js 14` `TypeScript` `PostgreSQL` `n8n` `Docker` | **Containerized WhatsApp Operational Assistant:** Architected a multi-container workflow automation platform with a centralized AES-256-GCM encrypted LLM Gateway, automated model failover, and bidirectional Google Calendar/Tasks sync. |
 | **[Music-Wails](https://github.com/Michael-dvs/Music-Wails)** | `Golang` `Wails` `React` `TypeScript` | **Cross-Platform Native Audio Player:** Built a low-latency desktop media player featuring a high-performance Go backend, asynchronous IPC bindings, real-time audio spectrum visualization, and dynamic UI color extraction. |
-| **FinExtract** | `Python` `Regex` `GUI` `CSV/Excel` | **Automated Financial Document Parser:** Developed a desktop scraping utility to programmatically extract, normalize, and convert unstructured PDF bank statements into structured tabular datasets. |
+| **[FinExtract](https://github.com/Michael-dvs/finextract)** | `Python` `Regex` `GUI` `CSV/Excel` | **Automated Financial Document Parser:** Developed a desktop scraping utility to programmatically extract, normalize, and convert unstructured PDF bank statements into structured tabular datasets. |
 
 ---
 
